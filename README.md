@@ -1,4 +1,4 @@
 # Paradox-demo
 This is my first Git-Repository
 <br>
-AUTHOR-SANJIB KUMAR
+AUTHOR-SANJIB KUMAR (PARADOX)
